@@ -254,9 +254,9 @@ h6 {
 }
 
 h2::before {
-  width: 3em;
-  height: 3em;
-  border: 0.5em solid #ffce00;
+  width: 4em;
+  height: 4em;
+  background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='100' ry='100' stroke='%23ffce00' stroke-width='1em' stroke-dasharray='0%25%2c 39.25%25%2c 78.54%25%2c 78.54%25%2c 78.54%25%2c 39.25%25' stroke-linecap='butt'/%3e%3c/svg%3e");
   position: absolute;
   top: -1.25em;
   left: -1.5em;
