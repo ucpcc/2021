@@ -13,21 +13,13 @@ UCPC 2021에 사용될 문제를 모집하고 있습니다! 여러분들의 창�
 
 ## 제공 방식
 
-### 문제 아이디어 제공
-
-문제의 아이디어만 제공하는 방식입니다. 문제의 핵심 아이디어와 간략한 정해를 보내주시면 기존 출제진이 보내주신 자료를 바탕으로 문제를 완성하게 됩니다.
-문제 당 소정의 출제비를 지급합니다.
-
-### 완성된 문제 제공
-
-문제, 정해와 데이터를 모두 제공하는 방식입니다. 미리 전부 만들어서 제공하셔도 좋고, 아직 완벽하진 않더라도 아이디어가 채택된다면 다른 출제진과 같이 의논하면서 보완해나갈 수도 있습니다.
-아이디어만 제공했을 때보다 더 많은 출제비를 지급합니다.
+문제와 정해를 모두 포함하여 보내주시면 됩니다.
 
 ## 프로세스
 
-1. 제공 방식에 따라 <a href="#" class="mail-address" data-name="tasks" data-domain="ucpc" data-tld="me" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>로 아래의 사항들을 포함한 문제 자료를 전송해 주세요.
+1. <a href="#" class="mail-address" data-name="tasks" data-domain="ucpc" data-tld="me" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>로 아래의 사항들을 포함한 문제 자료를 전송해 주세요.
     * 출제자 또는 출제진의 실명과 소속
-    * 문제 디스크립션과 해설 -- 초안이어도 괜찮습니다.
+    * 문제 디스크립션과 정해 -- 초안이어도 괜찮습니다.
         * PDF 포맷으로 보내주시는 것을 강력히 권장합니다.
         * (가능할 경우에) 문제를 해결하는 데 필요한 최소한의 요소들만 포함하도록 요약된 디스크립션
     * (기타 문제 제작에 도움이 되는 일체 자료, 있을 경우에) 데이터, 데이터 제네레이터, 스페셜 저지 등
