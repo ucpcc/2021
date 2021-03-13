@@ -27,6 +27,13 @@ markdown: kramdown
 theme: minima
 plugins:
 
+header_pages:
+- 01-about.md
+- 02-qualifier.md
+- 03-final.md
+- 04-tasks.md
+- 05-sponsor.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
