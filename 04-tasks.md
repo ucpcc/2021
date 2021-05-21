@@ -4,6 +4,7 @@ title: Call for Tasks
 permalink: /tasks/
 ---
 
+Call for Tasks는 마감되었습니다.
 
 ----
 
