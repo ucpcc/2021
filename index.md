@@ -4,6 +4,8 @@ title: UCPC 2021
 ---
 
 ## 주요 공지
+- **8월 1일** -- 본선 진출 대상자분들께 본선 등록 안내 메일을 전송하였습니다. 본선 등록 현황은 [여기](https://docs.google.com/spreadsheets/u/6/d/e/2PACX-1vR-MRiCs94yYMasoHWXGVpcFoA20A_hBBrEh-5K4dA9x-hWEuCMeG3Pt9IyiWyVTn6bbaGy8G8NfVpB/pubhtml?gid=0&single=true)에서 확인하실 수 있습니다.
+- **7월 31일** -- 예선이 무사히 마무리되었습니다. 예선 상위 60팀이 본선 진출 대상자 입니다!
 - **7월 25일** -- 예비소집을 포함한 모든 대회는 ucpc.acmicpc.net에서 이루어집니다
 - **7월 25일** -- 대회 전용 참가계정이 발송되었습니다. 계정을 받지 못했을 경우, contact@ucpc.me 로 연락바랍니다.
 - **7월 24일** -- 예비소집은 7월 26일 월요일 오전 10시부터 7월 30일 금요일 오후 11시까지 이루어집니다. 예비소집을 통해 로그인, 문제 제출, 채점 등에 문제가 없는지 확인해주세요.
